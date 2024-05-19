@@ -1,0 +1,11 @@
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\bin\Debug\net8.0\ShopApp.DataAccess.deps.json
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\bin\Debug\net8.0\ShopApp.DataAccess.dll
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\bin\Debug\net8.0\ShopApp.DataAccess.pdb
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\obj\Debug\net8.0\ShopApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\obj\Debug\net8.0\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\obj\Debug\net8.0\ShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\obj\Debug\net8.0\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\obj\Debug\net8.0\ShopApp.DataAccess.dll
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\obj\Debug\net8.0\refint\ShopApp.DataAccess.dll
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\obj\Debug\net8.0\ShopApp.DataAccess.pdb
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.DataAccess\obj\Debug\net8.0\ref\ShopApp.DataAccess.dll

@@ -1,0 +1,11 @@
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\bin\Debug\net8.0\ShopApp.Models.deps.json
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\bin\Debug\net8.0\ShopApp.Models.dll
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\bin\Debug\net8.0\ShopApp.Models.pdb
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\obj\Debug\net8.0\ShopApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\obj\Debug\net8.0\ShopApp.Models.AssemblyInfoInputs.cache
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\obj\Debug\net8.0\ShopApp.Models.AssemblyInfo.cs
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\obj\Debug\net8.0\ShopApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\obj\Debug\net8.0\ShopApp.Models.dll
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\obj\Debug\net8.0\refint\ShopApp.Models.dll
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\obj\Debug\net8.0\ShopApp.Models.pdb
+C:\Users\Антон\RiderProjects\ShopApp\ShopApp.Models\obj\Debug\net8.0\ref\ShopApp.Models.dll
